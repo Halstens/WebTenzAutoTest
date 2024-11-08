@@ -1,0 +1,10 @@
+[
+  "tests/test_block_power_in_human.py::test_block",
+  "tests/test_button_about.py::test_button_about",
+  "tests/test_equal_plagin.py::test_equal_plagin",
+  "tests/test_region.py::test_define_region",
+  "tests/test_region_change.py::test_region_change",
+  "tests/test_region_default.py::test_define_region_default",
+  "tests/test_work_and_check.py::test_work_and_check",
+  "tests/test_working.py::test_work_and_check"
+]
